@@ -45,7 +45,7 @@ Created as a thoughtful gift for someone who loves making videos and cats
     <img src="https://github.com/AaryanPanigrahi/Adorable-Noisy-Assistant-Light/blob/main/Media/A.N.A.L%20Full%20Design.png" height="300" alt="A.N.A.L Full Design">
   </a>
   <br>
-  A.N.A.L Full Design
+  Full Design
 </p>
 
 ---
